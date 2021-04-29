@@ -32,7 +32,7 @@ $m = query("SELECT * FROM mahasiswa WHERE id = $id");
     <li>Email : <?= $m['email']; ?></li>
     <li>Jurusan : <?= $m['jurusan']; ?></li>
     <li><a href="">Ubah</a> | <a href="">Hapus</a></li>
-    <li><a href="latihan2.php">Kembali</a></li>
+    <li><a href="latihan3.php">Kembali</a></li>
   </ul>
 </body>
 
